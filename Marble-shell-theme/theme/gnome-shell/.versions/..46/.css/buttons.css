@@ -1,0 +1,38 @@
+/* gaps between buttons in modal/messages
+
+/* if first button */
+.modal-dialog-linked-button:ltr:first-child,
+.modal-dialog-linked-button:rtl:last-child {
+	margin: 0 6px 0 0 !important;
+}
+.notification-button:ltr:first-child,
+.notification-button:rtl:last-child {
+	margin: 0 4px 8px 8px !important;
+}
+
+/* if last button */
+.modal-dialog-linked-button:ltr:last-child,
+.modal-dialog-linked-button:rtl:first-child {
+	margin: 0 0 0 6px !important;
+}
+.notification-button:ltr:last-child,
+.notification-button:rtl:first-child {
+	margin: 0 8px 8px 4px !important;
+}
+
+/* if only button: normal margin */
+.modal-dialog-linked-button:first-child:last-child {
+	margin: 0 !important;
+}
+.notification-button:first-child:last-child {
+	margin: 0 8px 8px 8px !important;
+}
+
+/* else */
+.modal-dialog-linked-button {
+	margin: 0 6px 0 6px !important;
+}
+
+.notification-button {
+	margin: 0 4px 8px 4px !important;
+}

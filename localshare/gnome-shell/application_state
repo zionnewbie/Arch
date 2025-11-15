@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Yelp.desktop" score="1" last-seen="1763176987"/>
+    <application id="org.gnome.baobab.desktop" score="0" last-seen="1763180499"/>
+    <application id="org.gnome.Contacts.desktop" score="0" last-seen="1763180886"/>
+    <application id="org.gnome.tweaks.desktop" score="30" last-seen="1763181546"/>
+    <application id="org.gnome.TextEditor.desktop" score="0" last-seen="1763181418"/>
+    <application id="org.gnome.Software.desktop" score="8" last-seen="1763180895"/>
+    <application id="org.gnome.Epiphany.desktop" score="0" last-seen="1763175567"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="13" last-seen="1763180963"/>
+    <application id="steam.desktop" score="6" last-seen="1763180339"/>
+    <application id="org.gnome.clocks.desktop" score="4" last-seen="1763180949"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="1" last-seen="1763176288"/>
+    <application id="nm-connection-editor.desktop" score="0" last-seen="1763176997"/>
+    <application id="org.gnome.Nautilus.desktop" score="16" last-seen="1763182117"/>
+    <application id="org.gnome.Calendar.desktop" score="0" last-seen="1763180956"/>
+    <application id="org.gnome.Weather.desktop" score="1" last-seen="1763180941"/>
+    <application id="org.gnome.SimpleScan.desktop" score="0" last-seen="1763180900"/>
+    <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1763179944"/>
+    <application id="firefox.desktop" score="193" last-seen="1763182117"/>
+    <application id="org.gnome.Terminal.desktop" score="238" last-seen="1763181995"/>
+    <application id="org.gnome.Firmware.desktop" score="11" last-seen="1763176477"/>
+    <application id="org.gnome.Music.desktop" score="0" last-seen="1763180865"/>
+    <application id="org.gnome.Loupe.desktop" score="3" last-seen="1763180786"/>
+    <application id="code.desktop" score="12" last-seen="1763181452"/>
+    <application id="org.gnome.Snapshot.desktop" score="1" last-seen="1763180880"/>
+    <application id="org.gnome.Extensions.desktop" score="16" last-seen="1763181081"/>
+    <application id="org.gnome.Settings.desktop" score="22" last-seen="1763180755"/>
+  </context>
+</application-state>
